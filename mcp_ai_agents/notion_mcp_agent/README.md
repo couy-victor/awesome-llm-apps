@@ -12,13 +12,6 @@ A terminal-based Notion Agent for interacting with your Notion pages using natur
 - Remembers conversation context for multi-turn interactions
 - Session management for persistent conversations
 
-## Prerequisites
-
-- Python 3.9+
-- A Notion account with admin permissions
-- A Notion Integration token
-- An OpenAI API key
-
 ## Installation
 
 1. Clone the repository
